@@ -1,0 +1,8 @@
+Malgorzata Kurcjusz-Gzowska
+https://github.com/MKurcjusz/SNARS/tree/main/P10_SNARS
+D1-K=2.csv, 0.014963
+D1-UNC.csv, 0.624373
+D2-K=7.csv, 0.093951
+D2-UNC.csv, 0.385052
+D3-K=12.csv, 0.374319
+D3-UNC.csv, 0.074539
